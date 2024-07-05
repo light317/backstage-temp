@@ -1,0 +1,15 @@
+#temp test
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Light's awesome app
+  description: An example random 317.
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: app
+  owner: light@malaz.com
+  lifecycle: perfect
+
