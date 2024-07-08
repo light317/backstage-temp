@@ -5,9 +5,9 @@ metadata:
   name: Light_awesome_app
   description: An example random 317.
   # Example for optional annotations
-  # annotations:
+  annotations:
   #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: app
   owner: light@malaz.com
